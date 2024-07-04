@@ -39,6 +39,7 @@ An auto-clicker with fine GUI and "terminal mode" :)
 - run `python3 clicker.py -c` or `python3 clicker.py --cmd`
 
 #### Both versions, after beeing started, are pretty self explanatory
-## Demo
 
-- add image here
+## Demo
+![image](https://github.com/DevLenn/AutClicky/assets/138329707/f9289a85-fd3d-423a-8d54-3cbe2d3a16e9)
+
