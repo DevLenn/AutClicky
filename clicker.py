@@ -12,7 +12,7 @@ import argparse
 class ClickApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("AutClick")
+        self.root.title("AutClicky")
         self.root.configure(bg='#2e2e2e')
         self.root.resizable(False, False)
 
