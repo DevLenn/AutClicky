@@ -40,6 +40,6 @@ An auto-clicker with fine GUI and "terminal mode" :)
 
 #### Both versions, after beeing started, are pretty self explanatory
 
-## Demo
+## Screenshot of GUI
 ![image](https://github.com/DevLenn/AutClicky/assets/138329707/f9289a85-fd3d-423a-8d54-3cbe2d3a16e9)
 
